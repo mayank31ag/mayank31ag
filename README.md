@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @mayank31ag
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mayank Agarwal
+- 👀 I’m interested in new technologies working as Fromtend Developer
+- 💞️ I’m looking to collaborate on Frontend developemnt using 100% mock API's
+- 📫 You can reach out to me via Gmail **mayank3141@gmail.com**
 
-<!---
-mayank31ag/mayank31ag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
